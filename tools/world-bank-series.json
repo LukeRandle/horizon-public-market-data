@@ -1,0 +1,122 @@
+[
+  {
+    "id": "WB_WTI",
+    "header": "Crude oil, WTI",
+    "sheetUnit": "($/bbl)",
+    "name": "WTI crude · monthly",
+    "unit": "USD per barrel",
+    "group": "energy"
+  },
+  {
+    "id": "WB_BRENT",
+    "header": "Crude oil, Brent",
+    "sheetUnit": "($/bbl)",
+    "name": "Brent crude · monthly",
+    "unit": "USD per barrel",
+    "group": "energy"
+  },
+  {
+    "id": "WB_GAS_US",
+    "header": "Natural gas, US",
+    "sheetUnit": "($/mmbtu)",
+    "name": "US natural gas · monthly",
+    "unit": "USD per million Btu",
+    "group": "energy"
+  },
+  {
+    "id": "WB_GOLD",
+    "header": "Gold",
+    "sheetUnit": "($/troy oz)",
+    "name": "Gold · monthly",
+    "unit": "USD per troy ounce",
+    "group": "precious-metals"
+  },
+  {
+    "id": "WB_SILVER",
+    "header": "Silver",
+    "sheetUnit": "($/troy oz)",
+    "name": "Silver · monthly",
+    "unit": "USD per troy ounce",
+    "group": "precious-metals"
+  },
+  {
+    "id": "WB_COPPER",
+    "header": "Copper",
+    "sheetUnit": "($/mt)",
+    "name": "Copper · monthly",
+    "unit": "USD per metric tonne",
+    "group": "industrial-metals"
+  },
+  {
+    "id": "WB_ALUMINUM",
+    "header": "Aluminum",
+    "sheetUnit": "($/mt)",
+    "name": "Aluminum · monthly",
+    "unit": "USD per metric tonne",
+    "group": "industrial-metals"
+  },
+  {
+    "id": "WB_NICKEL",
+    "header": "Nickel",
+    "sheetUnit": "($/mt)",
+    "name": "Nickel · monthly",
+    "unit": "USD per metric tonne",
+    "group": "industrial-metals"
+  },
+  {
+    "id": "WB_WHEAT",
+    "header": "Wheat, US HRW",
+    "sheetUnit": "($/mt)",
+    "name": "US hard red winter wheat · monthly",
+    "unit": "USD per metric tonne",
+    "group": "agriculture"
+  },
+  {
+    "id": "WB_MAIZE",
+    "header": "Maize",
+    "sheetUnit": "($/mt)",
+    "name": "Maize / corn · monthly",
+    "unit": "USD per metric tonne",
+    "group": "agriculture"
+  },
+  {
+    "id": "WB_SOYBEANS",
+    "header": "Soybeans",
+    "sheetUnit": "($/mt)",
+    "name": "Soybeans · monthly",
+    "unit": "USD per metric tonne",
+    "group": "agriculture"
+  },
+  {
+    "id": "WB_COFFEE",
+    "header": "Coffee, Arabica",
+    "sheetUnit": "($/kg)",
+    "name": "Arabica coffee · monthly",
+    "unit": "USD per kilogram",
+    "group": "agriculture"
+  },
+  {
+    "id": "WB_COCOA",
+    "header": "Cocoa",
+    "sheetUnit": "($/kg)",
+    "name": "Cocoa · monthly",
+    "unit": "USD per kilogram",
+    "group": "agriculture"
+  },
+  {
+    "id": "WB_COTTON",
+    "header": "Cotton, A Index",
+    "sheetUnit": "($/kg)",
+    "name": "Cotton A Index · monthly",
+    "unit": "USD per kilogram",
+    "group": "agriculture"
+  },
+  {
+    "id": "WB_SUGAR",
+    "header": "Sugar, world",
+    "sheetUnit": "($/kg)",
+    "name": "World sugar · monthly",
+    "unit": "USD per kilogram",
+    "group": "agriculture"
+  }
+]
